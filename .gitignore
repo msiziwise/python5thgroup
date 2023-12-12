@@ -4,6 +4,8 @@ target/
 !**/src/test/**/target/
 .idea/
 venv/
+.pytest_cache/
+allure-results/
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
@@ -34,6 +36,5 @@ build/
 target/
 ### VS Code ###
 .vscode/
-
 ### Mac OS ###
 .DS_Store
